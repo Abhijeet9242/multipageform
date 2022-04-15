@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "name": "abhijeet",
+      "age": "24",
+      "dob": "2022-04-14",
+      "state": "bihar",
+      "address": "orient club",
+      "pincode": "465465",
+      "id": 1
+    },
+    {
+      "name": "simmi",
+      "age": "23",
+      "dob": "2022-04-13",
+      "state": "orissa",
+      "address": "badagada",
+      "pincode": "2424242",
+      "id": 2
+    },
+    {
+      "name": "ajeet",
+      "age": "18",
+      "dob": "2022-04-30",
+      "state": "delhi",
+      "address": "laxmi nagar",
+      "pincode": "214242",
+      "id": 3
+    },
+    {
+      "name": "abh",
+      "age": "21",
+      "dob": "2022-04-14",
+      "state": "bihar",
+      "address": "wdwdw",
+      "pincode": "3131",
+      "id": 4
+    },
+    {
+      "name": "",
+      "age": "",
+      "dob": "",
+      "state": "S",
+      "address": "21",
+      "pincode": "2133",
+      "id": 5
+    },
+    {
+      "name": "KJF",
+      "age": "45",
+      "dob": "2022-04-28",
+      "state": "SDGSDG",
+      "address": "DFGDGDGD",
+      "pincode": "52353535",
+      "id": 6
+    },
+    {
+      "name": "av",
+      "age": "84",
+      "dob": "2022-04-20",
+      "state": "str",
+      "address": "dsgsdg",
+      "pincode": "234242",
+      "id": 7
+    },
+    {
+      "name": "samer",
+      "age": "26",
+      "dob": "2022-04-12",
+      "state": "bihar",
+      "address": "amgola",
+      "pincode": "4214242",
+      "id": 8
+    },
+    {
+      "name": "sdvd",
+      "age": "242",
+      "dob": "2022-04-14",
+      "state": "dsfgsfs",
+      "address": "3242",
+      "pincode": "42424",
+      "id": 9
+    },
+    {
+      "name": "tanisha",
+      "age": "11",
+      "dob": "2022-04-06",
+      "state": "bhuj",
+      "address": "bhuj",
+      "pincode": "242424",
+      "id": 10
+    }
+  ]
+}
